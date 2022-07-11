@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://github.com/Drakunal/Drakunal/blob/main/name.png" alt="Kunal Dey" />
+</h1>
+
 - 👋 Hi, I’m @Drakunal
 - 👀 I’m interested in coding creative things
 - 🌱 I’m currently doing Flutter and Python Development
