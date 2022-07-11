@@ -2,7 +2,7 @@
   <img src="https://github.com/Drakunal/Drakunal/blob/main/name.png" alt="Kunal Dey" />
 </h1>
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0px">
 - I am @Drakunal
 - 👀 I’m interested in coding creative things
 - 🌱 I’m currently doing Flutter and Python Development
