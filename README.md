@@ -9,6 +9,8 @@
 - 💞️ I’m looking to collaborate on any kind of project which is creative and is lot different from the monotonous codes
 - 📫 How to reach me - drakunaldey1@gmail.com
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakunal&theme=chartreuse-dark&count-private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api//?username=Drakunal&theme=chartreuse-dark&count_private=true" />
 <!---
 Drakunal/Drakunal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
