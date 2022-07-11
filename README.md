@@ -13,10 +13,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakunal&theme=chartreuse-dark&count_private=true&langs_count=10&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakunal&theme=chartreuse-dark&count_private=true&langs_count=10&layout=compact" width = 300em />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api//?username=Drakunal&theme=chartreuse-dark&count_private=true" width=550em />
+  <img align="center" src="https://github-readme-stats.vercel.app/api//?username=Drakunal&theme=chartreuse-dark&count_private=true" width=470em />
 </a>
 <!---
 Drakunal/Drakunal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
