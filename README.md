@@ -5,7 +5,7 @@
 # Hello! <img src="https://github.com/Drakunal/Drakunal/blob/main/wave.gif">
 - I am @Drakunal
 - 👀 I’m interested in coding creative things
-- 🌱 I’m currently doing GenerativeAI and Python Development
+- 🌱 I’m currently working on GenerativeAI and Python development
 - 💞️ I’m looking to collaborate on any kind of project which is creative and is lot different from the monotonous codes
 - 📫 How to reach me - drakunaldey1@gmail.com
 
